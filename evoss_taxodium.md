@@ -1,3 +1,9 @@
+<param ve-config 
+       title="Taxodium mucronatum: Enduring Old Man"
+       author="Erin Voss"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/26/El_Tule_21.jpg" 
+       layout="vertical">
+
 *Taxodium mucronatum: Enduring Old Man*
 
 Rising from the banks of streams and riparian edges, the Montezuma cypress (*Taxodium mucronatum*) establishes a presence of strength and beauty. Recognized as the national tree of Mexico, the Montezuma cypress plays a significant role in Mesoamerican history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec). 
