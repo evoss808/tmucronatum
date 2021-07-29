@@ -3,7 +3,7 @@
 <param ve-config 
        title="Taxodium mucronatum: Enduring Old Man"
        author="Erin Voss"
-       banner="https://iiif.juncture-digital.org/banner/?url=tmucronatum_300.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/26/El_Tule_21.jpg" 
        layout="vertical"
        region="422,37,1759,1367">
        
@@ -12,15 +12,15 @@ Rising from the banks of streams and riparian edges, the Montezuma cypress (*Tax
 <param ve-image url="https://live.staticflickr.com/5315/14223044634_7a2ba99162_b.jpg"
        label="Montezuma cypress line a river bank."
        author="Expeleosierra"
-       region="optional"
-       license="CC BY-NC-ND 2.0">
+       region="255,38,770,666"
+       license="Attribution-NonCommercial-NoDerivs 2.0 Generic">
 
 The <span eid="Q1429751"> Montezuma cypress </span> (*Taxodium mucronatum*) is a large semi-evergreen conifer. It thrives in a variety of soil types ranging from clay to sand, alkaline to acidic, and can withstand inundation. In fertile soils, it can grow up to six feet per year, but will still grow relatively fast under drought conditions. Montezuma cypress reach heights of 15 to 30 meters, spreading up to 12 meters.  Branches droop with 1-2 cm needles spirally arranged along the stems. The ovoid cones are small, only 1.5-2.5 cm long, ripening in October following a springtime bloom. As the tree primarily reproduces by seeds, germination begins as soon as moisture conditions permit once they are released. 
 
-<param ve-image url="url link"
-       label="captions"
-       author="author"
-       region="optional">
+<param ve-image url="https://live.staticflickr.com/6235/6273925782_78ecd5a80f_b.jpg"
+       label="Montezuma cypress"
+       author="jclopezalmansa"
+       license="attribution-sharealike 2.0 generic">
 
 The Montezuma cypress is native to Mexico and Guatemala, though there are a few stands in Cameron and Hidalgo counties in Texas. As a riparian tree, it favours upland riversides, but may also be found near springs and marshes. When not growing in pure stands, it is commonly found with *Platanus, Populus, Salix*, and *Inga* species. The oldest known specimens in Mexico have been documented in the rain shadow of the Sierra Madre Oriental near Rio Verde, San Luis Potosí. Montezuma cypress over 1000 years old grace the banks of the stream channels that run through mesquite grassland.
 
@@ -42,6 +42,11 @@ The Montezuma cypress is closely related to the bald cypress (*Taxodium distichu
 
 The Montezuma cypress belongs to the Cupressaceae family, one of the oldest plant families. The taxodiod clade became a distinct group from its ancestor in the Cretaceous period about 100 million years ago. The original ancestral species was dependent on moist conditions, a trait *T. mucronatum* retained. 
 
+<param ve-plant-specimen
+jpid="10.5555/al.ap.specimen.k000089026">
+<param ve-plant-specimen
+jpid="10.5555/al.ap.specimen.p00669708">
+
 The ethnobotanical uses of Montezuma bald cypress are quite broad. Bark was burned for an astringent to heal burns, scars, and skin ulcers while the resin, leaves, buds, and fruit were used to treat gout, toothaches, edema, heart conditions, and hemorrhoids. The rot resistant, hard wood was also utilized for furniture, canoes, construction beams, and cooking fuel. 
 
 <param ve-image url="url link"
@@ -54,15 +59,16 @@ In <span eid="Q13300">Nahuatl </span>, the bald cypress is known as “ahuehuete
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png/1920px-Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png"
        label="A singing Nahua man from the Florentine Codex."
        author="Unknown Nahua contributors under the leadership of Bernardino de Sahagún"
+       license="public domain"
        fit="contain">
 
-Though it does not appear in the Badianus manuscript, the Montezuma cypress is historically significant to the Mexican people. It is featured in one of the Zapotec creation myths and appears throughout various Aztec codices. In one codex, Coxcox and Xochiquetzal, the only human survivors of the mythical Aztec flood, were saved by hiding in an ahuehuete [footnote]. In the Codice Boturini, the arbol quebrado or “broken tree” myth of the Mexica represents the birth of the Mexica people from broken branches of river trees, which man believe to be the ahuehuete. 
+The Montezuma cypress is historically significant to the Mexican people, appearing throughout various Aztec codices. In one codex, Coxcox and Xochiquetzal, the only human survivors of the mythical Aztec flood, were saved by hiding in an ahuehuete [footnote]. In the Codice Boturini, the arbol quebrado or “broken tree” myth of the Mexica represents the birth of the Mexica people from broken branches of river trees, which many believe to be the ahuehuete.
 
 <param ve-image url="https://pueblodelalunametzitzin.files.wordpress.com/2019/07/tira-3.jpg"
-	label=""
+	label="The ritual tree in the Aubin Codex is believed to be an ahuehuete."
     author="Aubin Codex, Nahua people sometime in the late 16th, early 17th century"
     license="public domain"
-    region="">
+    region="1,171,2170,1642">
 
 Prior to the arrival of the Spaniards, the Mexica group of Aztecs cultivated the Montezuma cypress as ornamental or shade plants. Their symbolism as ancestors, brothers, and gods associated with creation stories evolved into a symbol of government, making it a popular plant for gardens and city avenues. Researchers believe it was a major feature of the gardens of Moctezuma, the sixth Huey Tlatoani or Emperor of the Aztec Empire. As lakes were drained and land paved over, many of the trees have succumbed to the altered hydrology and habitat loss. 
 
@@ -71,7 +77,7 @@ Prior to the arrival of the Spaniards, the Mexica group of Aztecs cultivated the
        author="Samuel Colman, 1832-1920"
        license="public domain">
 
-One of the most impressive is the <span eid="Q252182"> Arbol del Tule </span>, located on the church grounds in Santa Maria del Tule in Oaxaca. With a circumference of 42 m, it is considered to have the largest tree circumference in the world. DNA has proven it is a single tree with many large buttresses. Age estimates range from 1,200-1600 years old, with one local Zapotec legend claiming the tree was planted 1400 years ago by Pechocha, priest of Ehecatl, the Aztec god of wind.
+One of the most impressive is the <span eid="Q252182"> Arbol del Tule </span>, located on the church grounds in Santa Maria del Tule in Oaxaca. With a circumference of 42 m, it is considered to have the largest tree circumference in the world. [footnotearbol] DNA has proven it is a single tree with many large buttresses. Age estimates range from 1,200-1600 years old, with one local Zapotec legend claiming the tree was planted 1400 years ago by Pechocha, priest of Ehecatl, the Aztec god of wind.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/26/El_Tule_21.jpg"
        label="Árbol del Tule, the famed tree in Oaxaca, Mexico with a heavy buttressed trunk. Also nicknamed the 'Tree of Life' because of the animals supposedly visible in the gnarled trunk."
@@ -99,7 +105,7 @@ Drainage canals between the floating islands were constructed to accommodate can
        label="Tenochtitlan"
        author="La ciudad más hermosa, "
        region=""
-       license="CC BY-NC 2.0">
+       license="attribution non commercial generic">
 
 Chinampas were the literal foundation of the Aztec Empire, supplying food to support a rapidly expanding empire. The geography and hydrology of the Valley of Mexico, the heart of the Aztec civilization, made conventional agricultural practices impossible due to constant flooding. After the establishment of the capital Tenochtitlán on an island at the edge of Lake Texcoco, land for housing quickly grew scare as the population grew. The same technique used to create chinampas was applied to increase the area of inhabitable land, allowing the Aztecs to continue living with water. 
 
@@ -131,10 +137,11 @@ In this reinterpreted herbarium sheet, culture and ecology are intertwined. Each
 
 The ahuehuete, like the chinampas, is a symbol of prosperity, power, and memory, representing more than just a united nation. They are both ancestor and brother of the Mesoamerican people, carrying the history, culture, and identity of communities across Mexico. From its ethnobotanical and religious uses to its structural applications in agriculture, the ahuehuete maintains its prominence in contemporary Mexican culture. 
 
-<param ve-image url="url link"
+<param ve-image url=""
        label="captions"
        author="author"
-       region="optional">
+       license="">
        
 Footnote
+[footnote arboll]
 [Footnote]: https://www.lifepersona.com/where-does-the-word-ahuehuete-come-from
