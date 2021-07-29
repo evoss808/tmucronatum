@@ -25,7 +25,8 @@ The Montezuma cypress is native to Mexico and Guatemala, though there are a few 
 
 <param ve-map
 	basemap="Esri_WorldGrayCanvas"
-    center="22.476916, -101.815903">
+    center="22.476916, -101.815903"
+       zoom="4">
 <param ve-map-layer geojson
 	title="Taxodium mucronatum distribution"
 	url="tmucronatum_distribution.json">
