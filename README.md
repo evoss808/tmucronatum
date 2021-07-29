@@ -43,9 +43,11 @@ The Montezuma cypress is closely related to the bald cypress (*Taxodium distichu
 The Montezuma cypress belongs to the Cupressaceae family, one of the oldest plant families. The taxodiod clade became a distinct group from its ancestor in the Cretaceous period about 100 million years ago. The original ancestral species was dependent on moist conditions, a trait *T. mucronatum* retained. 
 
 <param ve-plant-specimen
-jpid="10.5555/al.ap.specimen.k000089026">
+jpid="10.5555/al.ap.specimen.k000089026"
+label="T. mucronatum">
 <param ve-plant-specimen
-jpid="10.5555/al.ap.specimen.p00669708">
+jpid="10.5555/al.ap.specimen.p00669708"
+label="T. distichum">
 
 The ethnobotanical uses of Montezuma bald cypress are quite broad. Bark was burned for an astringent to heal burns, scars, and skin ulcers while the resin, leaves, buds, and fruit were used to treat gout, toothaches, edema, heart conditions, and hemorrhoids. The rot resistant, hard wood was also utilized for furniture, canoes, construction beams, and cooking fuel. 
 
