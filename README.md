@@ -118,7 +118,7 @@ Chinampas were the literal foundation of the Aztec Empire, supplying food to sup
 
 Just as the chinampas were critical to the success of the Aztec empire, mythology drove their customs and culture. Because the ahuehuete is tied so closely to the history of the Mesoamerican people, this mythology was incorporated into the various layers of the herbarium drawing. The idea of inundation is implied through the face mask of Tlaloc and the iconography for rain. Tlaloc was the supreme god of rain, as well as god of fertility and water, the giver of life and sustenance. His inclusion ties the chinampas hydrologically and spiritually to mythology.
 
-<param ve-image url="tmucronatum_300.jpg"
+<param ve-image url="https://github.com/evoss808/tmucronatum/blob/main/tmucronatum_300.jpg"
        label="A reimagined herbarium sheet for T. mucronatum that incorporates the chinampa layers."
        author="Erin Voss, 2021"
        region="-1172,64,5862,4557">
