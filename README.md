@@ -160,24 +160,24 @@ The ahuehuete, like the chinampas, is a symbol of prosperity, power, and memory,
        license="">
        
 ###References
-[^ref1] "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
-[^ref2] Gilman, E. and Watson, D. Taxodium mucronatum Montezuma Baldcypress. University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
-[^ref3] "Taxodium mucronatum Montezuma cypress." American Conifer Society.
-[^ref4] Denny, G and Arnold, M. “Taxonomy and Nomenclature of Baldcypress, Pondcypress, and Montezuma Cypress: One, Two, or Three Species?” HorTechnology 17 no. 1 (2007): 125-127.
-[^ref5] "Taxodium mucronatum Montezuma cypress." American Conifer Society.
-[^ref6] Pitterman, J., Stuart, S., Dawson, T., and Moreau, A. “Cenozoic climate change shaped the evolutionary ecophysiology of the Cupressaceae conifers.” Proceedings of the National Academy of Sciences of the United States of America, 109, no. 24 (2012): 9647-52. https://doi.org/10.1073/pnas.1114378109
-[^ref7] Kay, M. Healing with Plants in the American and Mexican West. Tucson: University of Arizona Press, 1996.
-[^ref8] Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
-[^ref9] “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
-[^ref10] Etra, J. “The ahuehuete, Mexico’s National Tree.” Theeyehuatulco. 29 June 2020. https://theeyehuatulco.com/2020/06/29/the-ahuehuete-mexicos-national-tree/.
-[^ref11] Etra, J. “The ahuehuete, Mexico’s National Tree.” 2020.
-[^ref12] Dorado, O. et al. “The Arbol Del Tule (Taxodium mucronatum Ten.) is a single genetic individual.” Madroño 43 No. 4 (1996): 445-452.
-[^ref13] Onofre, S. The floating gardens in Mexico Xochimilco, world heritage risk site. City & Time 1, no. 3. ct.ceci-br.org. 
-[^ref14] Jorge Mdel, C. Williams, BJ., Garza-Hume, CE., Olvera, A. “Mathematical accuracy of Aztec land surveys assessed from records in the Codex Vergara.” Proceedings of the National Academy of Sciences of the United States of America 108, no. 37 (2011): 15053-7. doi:10.1073/pnas.1107737108.
-[^ref15] Onofre, S. “The Chinampas Before and After the Conquest,” in Michel Conan and J. Kress eds., Botanical Progress, Horticultural Innovations and Cultural Changes (Washington DC: Dumbarton Oaks Research Library and Collection, 2007), 159-175.
-[^ref16] Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
-[^ref17] Seth Denizen, email to author, February 25, 2021.
-[^ref18] Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
-[^ref19] Berdan FF. 2014. Aztec Archaeology and Ethnohistory. New York: Cambridge University Press.
-[^ref20] Taube, K. Aztec and Maya Myths Fourth Edition. Austin: University of Texas Press, 1993. 
-[^ref21] Sahagun, B. Florentine Codex: General History of the Things of New Spain. p, 2. 
+[^ref1]: "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
+[^ref2]: Gilman, E. and Watson, D. Taxodium mucronatum Montezuma Baldcypress. University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
+[^ref3]: "Taxodium mucronatum Montezuma cypress." American Conifer Society.
+[^ref4]: Denny, G and Arnold, M. “Taxonomy and Nomenclature of Baldcypress, Pondcypress, and Montezuma Cypress: One, Two, or Three Species?” HorTechnology 17 no. 1 (2007): 125-127.
+[^ref5]: "Taxodium mucronatum Montezuma cypress." American Conifer Society.
+[^ref6]: Pitterman, J., Stuart, S., Dawson, T., and Moreau, A. “Cenozoic climate change shaped the evolutionary ecophysiology of the Cupressaceae conifers.” Proceedings of the National Academy of Sciences of the United States of America, 109, no. 24 (2012): 9647-52. https://doi.org/10.1073/pnas.1114378109
+[^ref7]: Kay, M. Healing with Plants in the American and Mexican West. Tucson: University of Arizona Press, 1996.
+[^ref8]: Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
+[^ref9]: “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
+[^ref10]: Etra, J. “The ahuehuete, Mexico’s National Tree.” Theeyehuatulco. 29 June 2020. https://theeyehuatulco.com/2020/06/29/the-ahuehuete-mexicos-national-tree/.
+[^ref11]: Etra, J. “The ahuehuete, Mexico’s National Tree.” 2020.
+[^ref12]: Dorado, O. et al. “The Arbol Del Tule (Taxodium mucronatum Ten.) is a single genetic individual.” Madroño 43 No. 4 (1996): 445-452.
+[^ref13]: Onofre, S. The floating gardens in Mexico Xochimilco, world heritage risk site. City & Time 1, no. 3. ct.ceci-br.org. 
+[^ref14]: Jorge Mdel, C. Williams, BJ., Garza-Hume, CE., Olvera, A. “Mathematical accuracy of Aztec land surveys assessed from records in the Codex Vergara.” Proceedings of the National Academy of Sciences of the United States of America 108, no. 37 (2011): 15053-7. doi:10.1073/pnas.1107737108.
+[^ref15]: Onofre, S. “The Chinampas Before and After the Conquest,” in Michel Conan and J. Kress eds., Botanical Progress, Horticultural Innovations and Cultural Changes (Washington DC: Dumbarton Oaks Research Library and Collection, 2007), 159-175.
+[^ref16]: Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
+[^ref17]: Seth Denizen, email to author, February 25, 2021.
+[^ref18]: Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
+[^ref19]: Berdan FF. 2014. Aztec Archaeology and Ethnohistory. New York: Cambridge University Press.
+[^ref20]: Taube, K. Aztec and Maya Myths Fourth Edition. Austin: University of Texas Press, 1993. 
+[^ref21]: Sahagun, B. Florentine Codex: General History of the Things of New Spain. p, 2. 
