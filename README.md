@@ -160,6 +160,7 @@ The ahuehuete, like the chinampas, is a symbol of prosperity, power, and memory,
        license="">
        
 ###References
+
 [^ref1]: "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
 [^ref2]: Gilman, E. and Watson, D. Taxodium mucronatum Montezuma Baldcypress. University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
 [^ref3]: "Taxodium mucronatum Montezuma cypress." American Conifer Society.
