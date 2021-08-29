@@ -114,6 +114,11 @@ Construction of chinampas began with staking out a shallow lakebed and creating 
        author="Digital edition created by Gary Francisco Keller, original artwork created under supervision of Bernardino de Sahagún"
        region="-341,59,1707,1327"
        license="public domain">
+<param ve-image
+		url="chinampaslayers.jpg"
+		label="Typical layers of a chinampa."
+		author="Erin Voss, 2021">
+
 
 Drainage canals between the floating islands were constructed to accommodate canoes, allowing easy access for maintenance, planting, and harvesting. Because of the ideal growing conditions, chinampas could provide up to seven harvest per year.[^ref15] As environmental historian Jonathan Graham has suggested, these Mesoamerican agricultural systems offer a complex way of living with water as they are simultaneously concave and convex. [^ref16] In concave landscapes, crops were grown close to water, which left them susceptible to floods. This led to convex landscapes that reversed the geography by placing crops at higher elevations and relying on hydrological technology like aqueducts to water plants. However, chinampas take advantage of both typologies, adapting to inundated conditions and rising from the lakes to support a variety of crops. 
 
@@ -127,10 +132,10 @@ Drainage canals between the floating islands were constructed to accommodate can
        
 ### Where Myth and Nature Meet
 
-While chinampas were critical to the success of the Aztec empire, religious beliefs and practices were similarly integral to the lives of this prosperous society. Since the ahuehuete is tied so closely to the history of the Mesoamerican people, it plays a prominent role throughout different Aztex codices, yet is noticeably absent from the <span eid=”Q2204297”> Libellus de Medicinalibus Indorum Herbis </span>. Commonly referred to as the Badianas Manuscript, this herbal manifesto describing medicinal properties of plants reads similarly to the traditional herbarium sheet, with an added reverence for place, grounding each specimen in its local environment. Rethinking the inclusion of the ahuehuete in botanical drawings suggests the importance of including the cultural link often lost in contemporary herbarium sheets.  
+While chinampas were critical to the success of the Aztec empire, religious beliefs and practices were similarly integral to the lives of this prosperous society. Since the ahuehuete is tied so closely to the history of the Mesoamerican people, it plays a prominent role throughout different Aztex codices, yet is noticeably absent from the <span eid=”Q2204297”> *Libellus de Medicinalibus Indorum Herbis* </span>. Commonly referred to as the Badianas Manuscript, this herbal manifesto describing medicinal properties of plants reads similarly to the traditional herbarium sheet, with an added reverence for place, grounding each specimen in its local environment. Rethinking the inclusion of the ahuehuete in botanical drawings suggests the importance of including the cultural link often lost in contemporary herbarium sheets.  
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Badianus.jpg"
-       label="A page from the *Libellus* illustrating the tlahçolteoçacatl, tlayapaloni, axocotl and chicomacatl plants, used to treat injuries to the body."
+       label="A page from the Libellus illustrating the tlahçolteoçacatl, tlayapaloni, axocotl and chicomacatl plants, used to treat injuries to the body."
        author="Martín de la Cruz and translated into Latin by Juan Badianus, 1552"
        license="public domain">
 
@@ -150,11 +155,12 @@ In this reinterpreted drawing, culture and ecology are intertwined. The material
 <param ve-image url="tmucronatum_300.jpg"
        label="A reimagined herbarium sheet for T. mucronatum that incorporates the chinampa layers."
        author="Erin Voss, 2021"
-       region="-1172,64,5862,4557">
+       region="584,3,2931,2936">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/55/Tlaloc%2C_Codex_Rios%2C_p.20r.JPG"
 		label="Tlaloc from the Codex Rios, 16th Century."
         author="Codex Rios, 16th Cent"
-        license="public domain">
+        license="public domain"
+        region="-7,16,670,655">
 
 <span data-click-image-zoomto="461,2816,947,1066">Aquatic vegetation and compost</span> at the bottom of the pile is topped with alternating layers of <span data-click-image-zoomto="415,1986,947,1066"> earth and mud </span> comprised of rocks, minerals, and bacteria. The <span data-click-image-zoomto="257,1179,947,1066">final compost layer</span> keeps everything moist and fertile. Interspersed are more symbols of water. Hidden within the layers are the <span data-click-image-zoomto="16,1737,789,888">Five Suns</span>, a final nod to the Aztec and Nahua creation myths. They believed the world was created and destroyed four times before the present world came to being.
 
