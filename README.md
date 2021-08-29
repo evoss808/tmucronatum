@@ -1,14 +1,14 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Taxodium mucronatum: Enduring Old Man"
+       title="Taxodium mucronatum: Old Man of the Empire"
        author="Erin Voss"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/26/El_Tule_21.jpg&region=pct:" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/26/El_Tule_21.jpg&region=pct:0,10,80,70" 
        layout="vertical"
        region="422,37,1759,1367">
        
 ### A Mesoamerican Symbol
-Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty. Recognized as the national tree of <span eid="Q26">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref1] 
+Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty. Recognized as the national tree of <span eid="Q96">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref1] 
 <param ve-image url="https://live.staticflickr.com/5315/14223044634_7a2ba99162_b.jpg"
        label="Montezuma cypress line a river bank."
        author="Expeleosierra"
@@ -27,7 +27,7 @@ The <span eid="Q1429751"> Montezuma cypress </span>, *Taxodium mucronatum*, is a
 <param ve-image url="https://s3.amazonaws.com/huhspecimenimages/JPG-Preview/01116133.jpg"
        label="Taxodium distichum harbarium sheet"
        author="Harvard Univerity Herbarium"
-       region="-965,281,4827,3882">
+       region="483,249,2414,2716">
 
 The Montezuma cypress is native to Mexico and Guatemala, though there are a few stands in Cameron and Hidalgo counties in Texas. As a riparian tree, it favours upland riversides, but may also be found near springs and marshes. When not growing in pure stands, it is commonly found with <span eid="Q163025">*Platanus</span> , <span eid="Q25356">Populus</span>, <span eid="Q36050">Salix*</span>, and <span eid="Q290354">*Inga*</span> species. The oldest known specimens in Mexico have been documented in the rain shadow of the Sierra Madre Oriental near Rio Verde, San Luis Potosí. Montezuma cypress over 1000 years old grace the banks of the stream channels that run through mesquite grassland.[^ref3]
 
@@ -44,18 +44,20 @@ The Montezuma cypress is closely related to the bald cypress, <span eid="Q148950
 
 
 <param ve-plant-specimen
-jpid="10.5555/al.ap.specimen.k000089026"
-label="T. mucronatum">
-<param ve-plant-specimen
 jpid="10.5555/al.ap.specimen.p00669708"
 label="T. distichum">
+<param ve-plant-specimen
+jpid="10.5555/al.ap.specimen.k000089026"
+label="T. mucronatum">
+
 
 The ethnobotanical uses of Montezuma bald cypress are quite broad. Bark was burned for an astringent to heal burns, scars, and skin ulcers while the resin, leaves, buds, and fruit were used to treat gout, toothaches, edema, heart conditions, and hemorrhoids.[^ref6] The rot resistant, hard wood was also utilized for furniture, canoes, construction beams, and cooking fuel. 
 
-<param ve-image url="url link"
-       label="captions"
-       author="author"
-       region="optional">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/Ahuehuete.jpg"
+       label="Close up the trunk of T. mucronatum."
+       author="Hcontrerasb in wikimedia commons Feb 2013"
+       region=""
+       license="CC BY-SA 3.0">
 
 In <span eid="Q13300">Nahuatl </span>, the Montezuma cypress is known as “ahuehuete”. This is derived from *ahuehuetl* which means “upright drum in water" or “old man of the water,” a reference to its riparian habitat.[^ref7] Epiphytes, such lichen and bromeliads, often festoon to the ahuehuete tree and hang from its branches, mimicking the appearance of an elderly gentleman. The tree symbolizes the accumulated wisdom of older generations and the preservation of the history, culture, and identity of Nahua-speaking peoples. Prominent Nahua scholar <span url="https://guides.lib.byu.edu/c.php?g=267613&p=6643142"> Dr. Natalio Hernández </span> often utilizes the ahuehuete as a metaphor in his writings, calling for the Nahua people to return to their roots.[^ref8]
 
@@ -65,7 +67,7 @@ In <span eid="Q13300">Nahuatl </span>, the Montezuma cypress is known as “ahue
        license="public domain"
        fit="contain">
 
-The Montezuma cypress is historically significant to the Mexican people, appearing throughout various Aztec codices. In one codex, Coxcox and Xochiquetzal, the only human survivors of the mythical Aztec flood, were saved by hiding in an ahuehuete [^ref9]. In the Codice Boturini, the arbol quebrado or “broken tree” myth of the Mexica represents the birth of the Mexica people from broken branches of river trees, which many believe to be the ahuehuete.
+The Montezuma cypress is historically significant to the Mexican people, appearing throughout various <span eid="Q587240">Aztec codices</span>, illustrated manuscripts depicting everything from taxation and trade to history and rituals. In one codex, Coxcox and Xochiquetzal, the only human survivors of the mythical Aztec flood, were saved by hiding in an ahuehuete [^ref9]. In the Codice Boturini, the arbol quebrado or “broken tree” myth of the Mexica represents the birth of the Mexica people from broken branches of river trees, which many believe to be the ahuehuete.
 
 <param ve-image url="https://pueblodelalunametzitzin.files.wordpress.com/2019/07/tira-3.jpg"
 	label="The ritual tree in the Aubin Codex is believed to be an ahuehuete."
@@ -73,7 +75,7 @@ The Montezuma cypress is historically significant to the Mexican people, appeari
     license="public domain"
     region="1,171,2170,1642">
 
-Prior to the arrival of the Spaniards, the Mexica group of Aztecs cultivated the Montezuma cypress as ornamental or shade plants. Their symbolism as ancestors, brothers, and gods associated with creation stories evolved into a symbol of government, making it a popular plant for gardens and city avenues.[^ref10] Researchers believe it was a major feature of the gardens of <span eid="Q141791">Moctezuma</span>, the sixth Huey Tlatoani or Emperor of the Aztec Empire. As lakes were drained and land paved over, many of the trees have succumbed to the altered hydrology and habitat loss. 
+Prior to the arrival of the Spaniards, the Mexica group of Aztecs cultivated the Montezuma cypress as ornamental or shade plants. Their symbolism as ancestors, brothers, and gods associated with creation stories evolved into a symbol of government, making it a popular plant for gardens and city avenues.[^ref10] Researchers believe it was a major feature of the gardens of <span eid="Q141791">Moctezuma II</span>, the sixth Huey Tlatoani or Emperor of the Aztec Empire. As lakes were drained and land paved over time, many trees succumbed to the altered hydrology and loss of habitat. 
 
 <param ve-image url="https://images.collection.cooperhewitt.org/261233_3b5b12aa3604a510_x.jpg"
        title="Study for the Cypress Trees of Montezuma, Park of Chapultepec, Mexico"
@@ -125,19 +127,19 @@ Drainage canals between the floating islands were constructed to accommodate can
        
 ### Where Myth and Nature Meet
 
-While chinampas were critical to the success of the Aztec empire, religious beliefs were similarly integral to the lives of this prosperous society. Rituals and daily practices were documented in Aztec codices, painted manuscripts depicting everything from taxation and trade to history and science. Since the ahuehuete is tied so closely to the history of the Mesoamerican people, it plays a prominent role throughout different texts, yet is noticeably absent from the <span eid=”Q2204297”> Libellus de Medicinalibus Indorum Herbis </span>. Commonly referred to as the Badianas Manuscript, this herbal manifesto describing medicinal properties of plants reads similarly to the traditional herbarium sheet, with an added reverence for place, grounding each specimen in its local environment. Rethinking the inclusion of the ahuehuete in botanical drawings suggests the importance of including the cultural link often lost in contemporary herbarium sheets.  
+While chinampas were critical to the success of the Aztec empire, religious beliefs and practices were similarly integral to the lives of this prosperous society. Since the ahuehuete is tied so closely to the history of the Mesoamerican people, it plays a prominent role throughout different Aztex codices, yet is noticeably absent from the <span eid=”Q2204297”> Libellus de Medicinalibus Indorum Herbis </span>. Commonly referred to as the Badianas Manuscript, this herbal manifesto describing medicinal properties of plants reads similarly to the traditional herbarium sheet, with an added reverence for place, grounding each specimen in its local environment. Rethinking the inclusion of the ahuehuete in botanical drawings suggests the importance of including the cultural link often lost in contemporary herbarium sheets.  
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Badianus.jpg"
        label="A page from the *Libellus* illustrating the tlahçolteoçacatl, tlayapaloni, axocotl and chicomacatl plants, used to treat injuries to the body."
        author="Martín de la Cruz and translated into Latin by Juan Badianus, 1552"
        license="public domain">
 
-The reimagined herbarium sheet to the right weaves mythology and the legacy of chinampas into the representation of the ahuehuete. Like the Aztec civilization, the chinampa drawing is built upon the Aztec creation myth. In the beginning, the dual god Ometecuhtli/Omecihuatl created itself and its four children which represented the cardinal directions.[^ref18] The four gods then got to work creating the world, starting with water, other deities, and a sea monster Cipactli. Cipactli was part fish and crocodile, a voracious creature that ate every creation that fell into the water. Eventually the gods attacked the monster, finally defeating her and establishing the universe from her body. Thirteen heavens stretched from her head to her tail, with earth in the middle.[^ref19] In one interpretation, the world is literally built on the back of Cipactli, thus, the scaly monster grounds the soil in the drawing. 
+The reimagined herbarium sheet to the right weaves mythology and the legacy of chinampas into the representation of the ahuehuete. Like the Aztec civilization, the chinampa drawing is built upon the Aztec creation myth. In the beginning, the dual god <span eid="Q516456">Ometecuhtli/Omecihuatl</span> created itself and its four children which represented the cardinal directions.[^ref18] The four gods then got to work creating the world, starting with water, other deities, and a sea monster Cipactli. Cipactli was part fish and crocodile, a voracious creature that ate every creation that fell into the water. Eventually the gods attacked the monster, finally defeating her and establishing the universe from her body. Thirteen heavens stretched from her head to her tail, with earth in the middle.[^ref19] In one interpretation, the world is literally built on the back of Cipactli, thus, the scaly monster grounds the soil in the drawing. 
 
 <param ve-image url="tmucronatum_300.jpg"
        label="A reimagined herbarium sheet for T. mucronatum that incorporates the chinampa layers."
        author="Erin Voss, 2021"
-       region="-1172,64,5862,4557">
+       region="-1172,345,5862,4557">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ometecuhtli-Omecihuatl.jpg"
       label="Ometecuhtli and Omecihuatl depicted in the Codex Fejérváry-Mayer."
       author="unknown scribe in the Codex Fejérváry-Mayer"
