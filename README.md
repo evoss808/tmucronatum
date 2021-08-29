@@ -99,7 +99,7 @@ Along with willows, <span eid="Q5240848">*Salix lasiolepis*</span>, ahuehuete we
        license="creative commons">
        
        
-Chinampas were the literal foundation of the Aztec Empire, supplying food to support a rapidly expanding empire. The geography and hydrology of the Valley of Mexico, the heart of the Aztec civilization, made conventional agricultural practices impossible due to constant flooding.[^ref17] After the establishment of the capital <span eid="Q13695">Tenochtitlán</span> on an island at the edge of Lake Texcoco, land for housing quickly grew scare as the population grew. The same technique used to create chinampas was applied to increase the area of inhabitable land, allowing the Aztecs to continue living with water. 
+Chinampas were the literal foundation of the Aztec Empire, supplying food to support a rapidly expanding empire. The geography and hydrology of the Valley of Mexico, the heart of the Aztec civilization, made conventional agricultural practices impossible due to constant flooding.[^ref13] After the establishment of the capital <span eid="Q13695">Tenochtitlán</span> on an island at the edge of Lake Texcoco, land for housing quickly grew scare as the population grew. The same technique used to create chinampas was applied to increase the area of inhabitable land, allowing the Aztecs to continue living with water. 
 
 <param ve-image url="https://live.staticflickr.com/3373/3298822452_544b67aef5_b.jpg"
        label="Tenochtitlan"
@@ -107,7 +107,7 @@ Chinampas were the literal foundation of the Aztec Empire, supplying food to sup
        region=""
        license="attribution non commercial generic">
 
-Construction of chinampas began with staking out a shallow lakebed and creating a wattle fence.[^ref14] The designated fenced area was then piled with mud, lake sediment, and decaying vegetation until the surface peaked just above the water level. Manure and additional compost were commonly added as the top layer for extra nutrients. Because of the constant build up of soils, research has found a high bacterial diversity in cultivated soil compared to non-cultivated soils. The average Nahuatl chinampa measured about 30 m by 2.5 m.[^ref13]
+Construction of chinampas began with staking out a shallow lakebed and creating a wattle fence.[^ref14] The designated fenced area was then piled with mud, lake sediment, and decaying vegetation until the surface peaked just above the water level. Manure and additional compost were commonly added as the top layer for extra nutrients. Because of the constant build up of soils, research has found a high bacterial diversity in cultivated soil compared to non-cultivated soils. The average Nahuatl chinampa measured about 30 m by 2.5 m.[^ref15]
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-1024px-The_Florentine_Codex-_Agriculture.tiff.jpg"
        label="Aztec maize agriculture as depicted in the Florentine Codex with the cultivator using a digging stick."
@@ -120,14 +120,12 @@ Construction of chinampas began with staking out a shallow lakebed and creating 
 		author="Erin Voss, 2021">
 
 
-Drainage canals between the floating islands were constructed to accommodate canoes, allowing easy access for maintenance, planting, and harvesting. Because of the ideal growing conditions, chinampas could provide up to seven harvest per year.[^ref15] As environmental historian Jonathan Graham has suggested, these Mesoamerican agricultural systems offer a complex way of living with water as they are simultaneously concave and convex. [^ref16] In concave landscapes, crops were grown close to water, which left them susceptible to floods. This led to convex landscapes that reversed the geography by placing crops at higher elevations and relying on hydrological technology like aqueducts to water plants. However, chinampas take advantage of both typologies, adapting to inundated conditions and rising from the lakes to support a variety of crops. 
+Drainage canals between the floating islands were constructed to accommodate canoes, allowing easy access for maintenance, planting, and harvesting. Because of the ideal growing conditions, chinampas could provide up to seven harvest per year.[^ref16] As environmental historian Jonathan Graham has suggested, these Mesoamerican agricultural systems offer a complex way of living with water as they are simultaneously concave and convex. [^ref17] In concave landscapes, crops were grown close to water, which left them susceptible to floods. This led to convex landscapes that reversed the geography by placing crops at higher elevations and relying on hydrological technology like aqueducts to water plants. However, chinampas take advantage of both typologies, adapting to inundated conditions and rising from the lakes to support a variety of crops. 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Chinampas.jpg"
        label="Farmers in the chinampa canals, 1912."
        author="Karl Weule, 1912"
        license="public domain">
-
-
 
        
 ### Where Myth and Nature Meet
@@ -150,7 +148,7 @@ The reimagined herbarium sheet to the right weaves mythology and the legacy of c
       author="unknown scribe in the Codex Fejérváry-Mayer"
       license="public domain">
 
-In this reinterpreted drawing, culture and ecology are intertwined. The material inputs that characterize the soil profile of a typical chinampa are interspersed with Aztec symbology that grounds the representation. The idea of inundation is implied through the face mask of Tlaloc and the Aztec iconography for rain. Tlaloc was the supreme god of rain, as well as god of fertility and water, the giver of life and sustenance.[^ref20] His presence ties the chinampas hydrologically and spiritually to mythology. 
+In this reinterpreted drawing, culture and ecology are intertwined. The material inputs that characterize the soil profile of a typical chinampa are interspersed with Aztec symbology that grounds the representation. The idea of inundation is implied through the face mask of <span data-click-image-zoomto="2679,4032,838,840">Tlaloc and the Aztec iconography for rain</span>. Tlaloc was the supreme god of rain, as well as god of fertility and water, the giver of life and sustenance.[^ref20] His presence ties the chinampas hydrologically and spiritually to mythology. 
 
 <param ve-image url="tmucronatum_300.jpg"
        label="A reimagined herbarium sheet for T. mucronatum that incorporates the chinampa layers."
@@ -171,31 +169,32 @@ In this reinterpreted drawing, culture and ecology are intertwined. The material
 
 The ahuehuete, like the chinampas, is a symbol of prosperity, power, and memory, representing more than just a united nation. They are both ancestor and brother of the Mesoamerican people, carrying the history, culture, and identity of communities across Mexico. From its ethnobotanical and religious uses to its structural applications in agriculture, the ahuehuete maintains its prominence in contemporary Mexican culture. 
 
-<param ve-image url=""
-       label="captions"
-       author="author"
-       license="">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ahuehuete%2C_Taxodium_mucronatum%2C_en_el_parque_de_El_Retiro%2C_2.jpg"
+       label="Ahuehuete standing tall."
+       author="Malopz 21, uploaded to wikicommons October 2015"
+       license="CC BY-SA 4.0">
        
 ### References
 
 [^ref1]: "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
-[^ref2]: Gilman, E. and Watson, D. Taxodium mucronatum Montezuma Baldcypress. University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
-[^ref3]: "Taxodium mucronatum Montezuma cypress." American Conifer Society.
-[^ref4]: Denny, G and Arnold, M. “Taxonomy and Nomenclature of Baldcypress, Pondcypress, and Montezuma Cypress: One, Two, or Three Species?” HorTechnology 17 no. 1 (2007): 125-127.
+[^ref2]: Gilman, E. and Watson, D. *Taxodium mucronatum Montezuma Baldcypress.* University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
+[^ref3]: Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
+[^ref4]: Denny, G and Arnold, M. “Taxonomy and Nomenclature of Baldcypress, Pondcypress, and Montezuma Cypress: One, Two, or Three Species?” *HorTechnology* 17 no. 1 (2007): 125-127.
 [^ref5]: "Taxodium mucronatum Montezuma cypress." American Conifer Society.
+[^ref6]: Kay, M. *Healing with Plants in the American and Mexican West.* Tucson: University of Arizona Press, 1996.
+[^ref7]: Earle, C. “Taxodium mucronatum.” 
+[^ref8]: “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
+[^ref9]: Etra, J. “The ahuehuete, Mexico’s National Tree.” Theeyehuatulco. 29 June 2020. https://theeyehuatulco.com/2020/06/29/the-ahuehuete-mexicos-national-tree/.
+[^ref10]: Etra, J. “The ahuehuete, Mexico’s National Tree.” 2020.
+[^ref11]: Dorado, O. et al. “The Arbol Del Tule (Taxodium mucronatum Ten.) is a single genetic individual.” Madroño 43 No. 4 (1996): 445-452.
+[^ref12]: Onofre, S. The floating gardens in Mexico Xochimilco, world heritage risk site. City & Time 1, no. 3. ct.ceci-br.org. 
+[^ref13]: Onofre, S. “The Chinampas Before and After the Conquest,” in Michel Conan and J. Kress eds., *Botanical Progress, Horticultural Innovations and Cultural Changes* (Washington DC: Dumbarton Oaks Research Library and Collection, 2007), 159-175
 
-[^ref7]: Kay, M. Healing with Plants in the American and Mexican West. Tucson: University of Arizona Press, 1996.
-[^ref8]: Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
-[^ref9]: “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
-[^ref10]: Etra, J. “The ahuehuete, Mexico’s National Tree.” Theeyehuatulco. 29 June 2020. https://theeyehuatulco.com/2020/06/29/the-ahuehuete-mexicos-national-tree/.
-[^ref11]: Etra, J. “The ahuehuete, Mexico’s National Tree.” 2020.
-[^ref12]: Dorado, O. et al. “The Arbol Del Tule (Taxodium mucronatum Ten.) is a single genetic individual.” Madroño 43 No. 4 (1996): 445-452.
-[^ref13]: Onofre, S. The floating gardens in Mexico Xochimilco, world heritage risk site. City & Time 1, no. 3. ct.ceci-br.org. 
-[^ref14]: Jorge Mdel, C. Williams, BJ., Garza-Hume, CE., Olvera, A. “Mathematical accuracy of Aztec land surveys assessed from records in the Codex Vergara.” Proceedings of the National Academy of Sciences of the United States of America 108, no. 37 (2011): 15053-7. doi:10.1073/pnas.1107737108.
-[^ref15]: Onofre, S. “The Chinampas Before and After the Conquest,” in Michel Conan and J. Kress eds., Botanical Progress, Horticultural Innovations and Cultural Changes (Washington DC: Dumbarton Oaks Research Library and Collection, 2007), 159-175.
+[^ref14]: Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
+[^ref15]: Jorge Mdel, C. Williams, BJ., Garza-Hume, CE., Olvera, A. “Mathematical accuracy of Aztec land surveys assessed from records in the Codex Vergara.” *Proceedings of the National Academy of Sciences of the United States of America* 108, no. 37 (2011): 15053-7. doi:10.1073/pnas.1107737108.
 [^ref16]: Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
 [^ref17]: Seth Denizen, email to author, February 25, 2021.
-[^ref18]: Onofre, S. “The Chinampas Before and After the Conquest.” 2007.
-[^ref19]: Berdan FF. 2014. Aztec Archaeology and Ethnohistory. New York: Cambridge University Press.
-[^ref20]: Taube, K. Aztec and Maya Myths Fourth Edition. Austin: University of Texas Press, 1993. 
-[^ref21]: Sahagun, B. Florentine Codex: General History of the Things of New Spain. p, 2. 
+[^ref18]: Berdan FF. 2014. Aztec Archaeology and Ethnohistory. New York: Cambridge University Press.
+[^ref19]: Taube, K. *Aztec and Maya Myths Fourth Edition.* Austin: University of Texas Press, 1993. 
+[^ref20]: Sahagun, B. *Florentine Codex: General History of the Things of New Spain.* p, 2. 
+
