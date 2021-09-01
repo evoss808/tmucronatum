@@ -29,12 +29,12 @@ One of the most recognized civilizations in Mexico are the <span eid="Q12542">Az
 The <span eid="Q1429751"> Montezuma cypress </span>, *Taxodium mucronatum*, is a large semi-evergreen conifer. It thrives in a variety of soil types ranging from clay to sand, alkaline to acidic, and can withstand inundation.[^ref2] In fertile soils, it can grow up to six feet per year, but will still grow relatively fast under drought conditions. Montezuma cypress reach heights of 15 to 30 meters, spreading up to 12 meters. Branches droop with 1-2 cm needles spirally arranged along the stems. The ovoid cones are small, only 1.5-2.5 cm long, ripening in October following a springtime bloom. As the tree primarily reproduces by seeds, germination begins as soon as moisture conditions permit once they are released. 
 
 <param ve-image url="https://live.staticflickr.com/6235/6273925782_78ecd5a80f_b.jpg"
-       label="Montezuma cypress"
+       label="Montezuma cypress in a garden."
        author="jclopezalmansa"
        license="CC BY-SA 2.0">
 
 <param ve-image url="https://s3.amazonaws.com/huhspecimenimages/JPG-Preview/01116133.jpg"
-       label="Taxodium distichum harbarium sheet"
+       label="Taxodium distichum herbarium sheet."
        author="Harvard Univerity Herbarium"
        region="483,249,2414,2716">
 
@@ -49,8 +49,9 @@ The Montezuma cypress is native to Mexico and Guatemala, though there are a few 
 	url="tmucronatum_distribution.json">
 
 <param ve-image url="tmucronatum_riparian.jpg"
-       label="Montezuma cypress along a riverway with Salix and Inga species."
-       author="Erin Voss, 2021">
+       label="Forest with Montezuma cypress, Salix, and Inga species."
+       author="Erin Voss, 2021"
+       region="-272,305,3275,2546">
 
 
 The Montezuma cypress is closely related to the bald cypress, <span eid="Q148950">*Taxodium distichum*</span>, found in the southern United States. In the previous century, many scientists debated whether the specimen in Mexico was a distinct species or too closely morphologically related to the American bald cypress.[^ref4] Thus in the literature, publications from the 1990s and early 2000s still refer to the Montezuma cypress as a variety of the American species and list the tree as *T. distichum* var *mexicanum*. In reality, *T. mucrontaum* has slightly smaller and less variably-sized females comes and rarely develops “knees” at the base of its trunk. It is also not frost-hardy, unlike *T. distichum.*[^ref5]
