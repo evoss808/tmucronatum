@@ -8,12 +8,21 @@
        region="422,37,1759,1367">
        
 ### A Mesoamerican Symbol
-Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty. Recognized as the national tree of <span eid="Q96">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref1] 
+Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty that personifies a powerful and enduring people. Recognized as the national tree of <span eid="Q96">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref1] 
 <param ve-image url="https://live.staticflickr.com/5315/14223044634_7a2ba99162_b.jpg"
        label="Montezuma cypress line a river bank."
        author="Expeleosierra"
        region="255,38,770,666"
        license="CC BY-NC-ND 2.0">
+       
+
+One of the most recognized civilizations in Mexico are the <span eid="Q12542">Aztecs</span>, who were members of the indigenous group <span eid="Q826591">Nahuas</span>. In <span eid="Q13300">Nahuatl</span>, the word "ahuehuete" is derived from *ahuehuetl* which means “upright drum in water" or “old man of the water,” a reference to its riparian habitat.[^ref7] Epiphytes, such lichen and bromeliads, often festoon to the ahuehuete tree and hang from its branches, mimicking the appearance of an elderly gentleman. The tree symbolizes the accumulated wisdom of older generations and the preservation of the history, culture, and identity of Nahua-speaking peoples. Prominent Nahua scholar <span url="https://guides.lib.byu.edu/c.php?g=267613&p=6643142"> Dr. Natalio Hernández </span> often utilizes the ahuehuete as a metaphor in his writings, calling for the Nahua people to return to their roots.[^ref8]
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png/1920px-Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png"
+       label="A singing Nahua man from the Florentine Codex."
+       author="Unknown Nahua contributors under the leadership of Bernardino de Sahagún"
+       license="public domain"
+       fit="contain">
        
 ### Giant of the Rivers
 
@@ -29,7 +38,7 @@ The <span eid="Q1429751"> Montezuma cypress </span>, *Taxodium mucronatum*, is a
        author="Harvard Univerity Herbarium"
        region="483,249,2414,2716">
 
-The Montezuma cypress is native to Mexico and Guatemala, though there are a few stands in Cameron and Hidalgo counties in Texas. As a riparian tree, it favours upland riversides, but may also be found near springs and marshes. When not growing in pure stands, it is commonly found with <span eid="Q163025">*Platanus</span> , <span eid="Q25356">Populus</span>, <span eid="Q36050">Salix*</span>, and <span eid="Q290354">*Inga*</span> species. The oldest known specimens in Mexico have been documented in the rain shadow of the Sierra Madre Oriental near Rio Verde, San Luis Potosí. Montezuma cypress over 1000 years old grace the banks of the stream channels that run through mesquite grassland.[^ref3]
+The Montezuma cypress is native to Mexico and Guatemala, though there are a few stands in southern Texas. As a riparian tree, it favours upland riversides, but may also be found near springs and marshes. When not growing in pure stands, it is commonly found with <span eid="Q163025">*Platanus</span> , <span eid="Q25356">Populus</span>, <span eid="Q36050">Salix*</span>, and <span eid="Q290354">*Inga*</span> species. The oldest known specimens in Mexico have been documented in the rain shadow of the Sierra Madre Oriental near Rio Verde, San Luis Potosí. Montezuma cypress over 1000 years old grace the banks of the stream channels that run through mesquite grassland.[^ref3]
 
 <param ve-map
 	basemap="Esri_WorldGrayCanvas"
@@ -38,6 +47,10 @@ The Montezuma cypress is native to Mexico and Guatemala, though there are a few 
 <param ve-map-layer geojson
 	title="Taxodium mucronatum distribution"
 	url="tmucronatum_distribution.json">
+
+<param ve-image url="tmucronatum_riparian.jpg"
+       label="Montezuma cypress along a riverway with Salix and Inga species."
+       author="Erin Voss, 2021">
 
 
 The Montezuma cypress is closely related to the bald cypress, <span eid="Q148950">*Taxodium distichum*</span>, found in the southern United States. In the previous century, many scientists debated whether the specimen in Mexico was a distinct species or too closely morphologically related to the American bald cypress.[^ref4] Thus in the literature, publications from the 1990s and early 2000s still refer to the Montezuma cypress as a variety of the American species and list the tree as *T. distichum* var *mexicanum*. In reality, *T. mucrontaum* has slightly smaller and less variably-sized females comes and rarely develops “knees” at the base of its trunk. It is also not frost-hardy, unlike *T. distichum.*[^ref5]
@@ -59,13 +72,6 @@ The ethnobotanical uses of Montezuma bald cypress are quite broad. Bark was burn
        region=""
        license="CC BY-SA 3.0">
 
-In <span eid="Q13300">Nahuatl </span>, the Montezuma cypress is known as “ahuehuete”. This is derived from *ahuehuetl* which means “upright drum in water" or “old man of the water,” a reference to its riparian habitat.[^ref7] Epiphytes, such lichen and bromeliads, often festoon to the ahuehuete tree and hang from its branches, mimicking the appearance of an elderly gentleman. The tree symbolizes the accumulated wisdom of older generations and the preservation of the history, culture, and identity of Nahua-speaking peoples. Prominent Nahua scholar <span url="https://guides.lib.byu.edu/c.php?g=267613&p=6643142"> Dr. Natalio Hernández </span> often utilizes the ahuehuete as a metaphor in his writings, calling for the Nahua people to return to their roots.[^ref8]
-
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png/1920px-Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png"
-       label="A singing Nahua man from the Florentine Codex."
-       author="Unknown Nahua contributors under the leadership of Bernardino de Sahagún"
-       license="public domain"
-       fit="contain">
 
 The Montezuma cypress is historically significant to the Mexican people, appearing throughout various <span eid="Q587240">Aztec codices</span>, illustrated manuscripts depicting everything from taxation and trade to history and rituals. In one codex, Coxcox and Xochiquetzal, the only human survivors of the mythical Aztec flood, were saved by hiding in an ahuehuete [^ref9]. In the Codice Boturini, the arbol quebrado or “broken tree” myth of the Mexica represents the birth of the Mexica people from broken branches of river trees, which many believe to be the ahuehuete.
 
