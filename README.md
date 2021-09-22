@@ -8,7 +8,7 @@
        region="422,37,1759,1367">
        
 ### A Mesoamerican Symbol
-Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty that personifies a powerful and enduring people. Recognized as the national tree of <span eid="Q96">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and culture. The tree has many common names depending on the indigenous language of the region where it grows including ciprés, pénjamu, sabino, ahuehuete (Nahuatl), tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref1] 
+Rising from the banks of streams and riparian edges, the Montezuma cypress, *Taxodium mucronatum*, establishes a presence of strength and beauty that personifies a powerful and enduring people. Recognized as the national tree of <span eid="Q96">Mexico</span>, the Montezuma cypress plays a significant role in <span eid="Q13703">Mesoamerican</span> history and development of indigenous cultures. The complexity of ecological systems and topographic conditions throughout the Mesoamerican region facilitated the development of unique forms of government, agriculture, mythology, and science, among others. Through its role in mythology and agricultural systems, the Montezuma cypress stakes itself firmly in the narrative as an agent that enabled the growth and stability of some of the world’s most dominant ancient societies. 
 <param ve-image url="https://live.staticflickr.com/5315/14223044634_7a2ba99162_b.jpg"
        label="Montezuma cypress line a river bank."
        author="Expeleosierra"
@@ -16,7 +16,7 @@ Rising from the banks of streams and riparian edges, the Montezuma cypress, *Tax
        license="CC BY-NC-ND 2.0">
        
 
-One of the most recognized civilizations in Mexico are the <span eid="Q12542">Aztecs</span>, who were members of the indigenous group <span eid="Q826591">Nahuas</span>. In <span eid="Q13300">Nahuatl</span>, the word "ahuehuete" is derived from *ahuehuetl* which means “upright drum in water" or “old man of the water,” a reference to its riparian habitat.[^ref2] Epiphytes, such lichen and bromeliads, often festoon to the ahuehuete tree and hang from its branches, mimicking the appearance of an elderly gentleman. The tree symbolizes the accumulated wisdom of older generations and the preservation of the history, culture, and identity of Nahua-speaking peoples. Prominent Nahua scholar <span url="https://guides.lib.byu.edu/c.php?g=267613&p=6643142"> Dr. Natalio Hernández </span> often anchors the Nahua narrative in an ahuehuete metaphor and encourages a return to indigenous practices.[^ref3]
+One of the most recognized civilizations in Mexico are the <span eid="Q12542">Aztecs</span>, who were members of the indigenous group <span eid="Q826591">Nahuas</span>. In <span eid="Q13300">Nahuatl</span>, the word "ahuehuete" is derived from *ahuehuetl* which means “upright drum in water" or “old man of the water,” a reference to its riparian habitat.[^ref1] Epiphytes, such as lichen and bromeliads, often festoon to the ahuehuete tree and hang from its branches, mimicking the appearance of an elderly gentleman. The tree symbolizes the accumulated wisdom of older generations and the preservation of the history, culture, and identity of Nahua-speaking peoples. Prominent Nahua scholar <span url="https://guides.lib.byu.edu/c.php?g=267613&p=6643142"> Dr. Natalio Hernández </span> often engages the metaphor of ahuehuete to encourage a return to indigenous practices.[^ref2] Other common names, related to the dominant indigenous language of the reion, include ciprés, pénjamu, sabino, tnuyucu (Mixteca) and yagaguichiciña (Zapotec).[^ref3]
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png/1920px-Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png"
        label="A singing Nahua man from the Florentine Codex."
@@ -183,9 +183,10 @@ The ahuehuete, like the chinampas, is a symbol of prosperity, power, and memory,
        
 ### References
 
-[^ref1]: "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
-[^ref2]: Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
-[^ref3]: “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
+
+[^ref1]: Earle, C. “Taxodium mucronatum.” Last modified January 2020. Accessed August 20, 2021. https://www.conifers.org/cu/Taxodium_mucronatum.php
+[^ref2]: “Indigenous Studies (Latin America & Caribbean): Natalio Hernández.” BYU Library. Accessed August 20, 2021. https://guides.lib.byu.edu/c.php?g=267613&p=6643142
+[^ref3]: "Taxodium mucronatum Montezuma cypress." American Conifer Society. Accessed August 20, 2021. https://conifersociety.org/conifers/taxodium-mucronatum/
 [^ref4]: Gilman, E. and Watson, D. Taxodium mucronatum Montezuma Baldcypress. University of Florida: USDA, 1994. Accessed August 20, 2021. http://hort.ufl.edu/database/documents/pdf/tree_fact_sheets/taxmuca.pdf  
 [^ref5]: Earle, C. “Taxodium mucronatum.” 
 [^ref6]: Denny, G and Arnold, M. “Taxonomy and Nomenclature of Baldcypress, Pondcypress, and Montezuma Cypress: One, Two, or Three Species?” HorTechnology 17 no. 1 (2007): 125-127.
